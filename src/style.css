@@ -1,0 +1,19 @@
+html {
+    background-color: #ece2ec;
+    text-align: center;
+    font-family: 'Karla', sans-serif;
+}
+
+img {
+    height: 70%;
+}
+
+.icon {
+    height: 50px;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
