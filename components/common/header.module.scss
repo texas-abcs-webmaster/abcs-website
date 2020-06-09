@@ -1,0 +1,16 @@
+.headerContainer {
+    display: flex;
+    justify-content: flex-end;  
+}
+
+.headerTab {
+    color: #0c350f;
+    padding: 10px 10px 5px;
+    text-decoration: none; // Get rid of default underline on link
+
+    &:hover {
+        border-bottom: 1mm solid #0c350f;
+        border-radius: 3px;
+        cursor: pointer;
+    }
+}

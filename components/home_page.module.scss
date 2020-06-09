@@ -1,0 +1,23 @@
+.homepageName {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 72px;
+    padding-top: 300px;
+    padding-right: 100px;
+    padding-bottom: 200px;
+}
+
+.centered {
+    text-align: center;
+}
+
+.pillar {
+    font-size: 32px;
+}
+
+.mission {
+    font-size: 44px;
+    &_content {
+        padding: 0 160px;
+    }
+}
